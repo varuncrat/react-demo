@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "startTime": "9:00 A.M.",
+    "endTime": "10:00 A.M.",
+    "isBooked": false,
+    "firstName": "Varun",
+    "lastName": "Kumar",
+    "phone": null
+  },
+  {
+    "id": 2,
+    "startTime": "10:00 A.M.",
+    "endTime": "11:00 A.M.",
+    "isBooked": true,
+    "firstName": "Will",
+    "lastName": null,
+    "phone": "4"
+  },
+  {
+    "id": 3,
+    "startTime": "11:00 A.M.",
+    "endTime": "12:00 P.M.",
+    "isBooked": false,
+    "firstName": null,
+    "lastName": null,
+    "phone": null
+  },
+  {
+    "id": 4,
+    "startTime": "12:00 P.M.",
+    "endTime": "1:00 P.M.",
+    "isBooked": false,
+    "firstName": null,
+    "lastName": null,
+    "phone": null
+  },
+  {
+    "id": 5,
+    "startTime": "1:00 P.M.",
+    "endTime": "2:00 P.M.",
+    "isBooked": false,
+    "firstName": null,
+    "lastName": null,
+    "phone": null
+  },
+  {
+    "id": 6,
+    "startTime": "2:00 P.M.",
+    "endTime": "3:00 P.M.",
+    "isBooked": false,
+    "firstName": null,
+    "lastName": null,
+    "phone": null
+  },
+  {
+    "id": 7,
+    "startTime": "3:00 P.M.",
+    "endTime": "4:00 P.M.",
+    "isBooked": false,
+    "firstName": null,
+    "lastName": null,
+    "phone": null
+  },
+  {
+    "id": 8,
+    "startTime": "4:00 P.M.",
+    "endTime": "5:00 P.M.",
+    "isBooked": false,
+    "firstName": null,
+    "lastName": null,
+    "phone": null
+  }
+]

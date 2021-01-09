@@ -1,0 +1,37 @@
+.page-heading {
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+}
+
+.list-item {
+  height: 40px;
+  margin: 8px 16px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  color: #ffffff;
+  box-sizing: border-box;
+  border: 1.5px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.5);
+  font-size: 0.8rem;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.list-item:hover {
+  background: #303030;
+}
+
+.booked-slot {
+  background: linear-gradient(60deg, #e53935, #ef5350);
+}
+
+.available-slot {
+  background: linear-gradient(60deg, #212121, #303030);
+}
+
+.booked-text {
+  padding: 1px;
+}
