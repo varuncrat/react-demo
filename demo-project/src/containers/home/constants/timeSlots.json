@@ -13,9 +13,9 @@
     "startTime": "10:00 A.M.",
     "endTime": "11:00 A.M.",
     "isBooked": true,
-    "firstName": "Will",
-    "lastName": null,
-    "phone": "4"
+    "firstName": "ABC",
+    "lastName": "ABC",
+    "phone": "111111000"
   },
   {
     "id": 3,
